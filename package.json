@@ -1,0 +1,25 @@
+{
+  "name": "testcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogicWarz/testcase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LogicWarz/testcase/issues"
+  },
+  "homepage": "https://github.com/LogicWarz/testcase#readme",
+  "dependencies": {
+    "acorn": "^7.1.0",
+    "astring": "^1.4.3",
+    "axios": "^0.19.0"
+  }
+}
